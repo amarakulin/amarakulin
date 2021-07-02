@@ -1,5 +1,16 @@
 ### Hi there 👋
+💻 I am backend developer.
+
+🌱 I’m currently learning Spring Framework
+
+🔈 Telegram: @Sasha_mar9
+
+Look at my [resume!](https) 🍰
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pichkasik&layout=compact)](https://github.com/pichkasik/github-readme-stats)
+
+
 
 <!--
 **pichkasik/pichkasik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
