@@ -8,7 +8,7 @@
 Look at my [resume!](https) 🍰
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pichkasik&layout=compact)](https://github.com/pichkasik/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pichkasik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
