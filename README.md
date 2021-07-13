@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning Spring Framework
 
-🔈 Telegram: @Sasha_mar9
+🔈 Telegram: [@Sasha_mar9](https://t.me/Sasha_mar9)
 
 Look at my [resume!](https) 🍰
 
