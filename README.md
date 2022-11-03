@@ -1,11 +1,11 @@
 ### Hi there 👋
 💻 I am backend developer.
 
-🌱 I’m currently learning Spring Framework
+🌱 I’m currently learning Cloud Technologies
 
 🔈 Telegram: [@Sasha_mar9](https://t.me/Sasha_mar9)
 
-🍰 Look at my resume! ([RU](https://drive.google.com/file/d/1RWljiss2c9x0OCWxumOFvLswsy2QiW4Q/view?usp=sharing), [ENG](https://drive.google.com/file/d/1TYNQNRihOs0qSDZw3ZA2heAZO-C11fP6/view?usp=sharing))
+🍰 Take a look at my [resume](https://www.canva.com/design/DAEkviIhJeo/Fbj7dPkmQd7jHjG_Kgi0hw/view?utm_content=DAEkviIhJeo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)!
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pichkasik)](https://github.com/anuraghazra/github-readme-stats)
