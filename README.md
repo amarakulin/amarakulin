@@ -1,11 +1,9 @@
 ### Hi there 👋
-💻 I am backend developer.
-
-🌱 I’m currently learning Cloud Technologies
+💻 I am backend Java developer.
 
 🔈 Telegram: [@Sasha_mar9](https://t.me/Sasha_mar9)
 
-🍰 Take a look at my [resume](https://www.canva.com/design/DAEkviIhJeo/Fbj7dPkmQd7jHjG_Kgi0hw/view?utm_content=DAEkviIhJeo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)!
+🍰 Take a look at my [resume](https://docs.google.com/document/d/1wHEMVhTL7oZmH8ftrX5nvCr9R3JiX7-oSz5MTYBDXi4/edit?usp=sharing)!
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pichkasik)](https://github.com/anuraghazra/github-readme-stats)
